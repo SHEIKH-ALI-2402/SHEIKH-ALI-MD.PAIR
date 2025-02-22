@@ -1,9 +1,9 @@
 {
     "name": "SHEIKH-ALI-MD.PAIR",
-    "description": "A session generator platform for all WA bot, Created by Ali Ahmad jux to simplify your digital lives",
+    "description": "I'm Web Session Generator by 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡",
     "logo": "https://i.ibb.co/YdSKMhv/6767.jpg",
     "repository": "https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD.PAIR",
-    "keywords": ["SHEIKH-ALI-MD.PAIR"],
+    "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -13,7 +13,7 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "set session id conformation message",
+        "description": "",
         "value": "",
         "required": false 
       }
